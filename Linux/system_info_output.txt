@@ -1,0 +1,8 @@
+User: saad
+Date: Sun Nov 22 12:30:49 UTC 2026
+Directory: /home/saad/DeveloperPortfolio
+Disk usage:
+/dev/sdd       1007G  1.6G  955G   1% /
+Memory:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       475Mi       3.2Gi       4.1Mi       228Mi       3.3Gi
